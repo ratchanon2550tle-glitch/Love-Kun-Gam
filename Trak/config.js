@@ -10,7 +10,7 @@ const CONFIG = {
 
   // 💌 ข้อความลอยตัวรอบหัวใจ 3D
   floatingTexts: [
-    "HAPPY ANNIVERSARY",
+    "LET'S STAY TOGETHER FOREVER",
     "LOVE U THE MOST",
     "ONLY U",
     "ALWAYS U",
